@@ -1,0 +1,17 @@
+body {
+  background: var(--Cream);
+  font-size: 1.6rem;
+  overflow-x: hidden;
+}
+
+.page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product {
+  max-width: 375px;
+  padding: 1.5rem;
+}
