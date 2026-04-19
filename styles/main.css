@@ -1,0 +1,7 @@
+@import "/styles/base/_reset.css";
+@import "/styles/base/_variables.css";
+@import "/styles/base/_typography.css";
+
+@import "/styles/layout/_page.css";
+
+@import "/styles/components/_product-card.css";

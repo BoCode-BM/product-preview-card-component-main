@@ -1,0 +1,16 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  color: var(--Black);
+  font-size: 1.6rem;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
