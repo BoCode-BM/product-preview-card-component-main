@@ -66,10 +66,27 @@
   padding: 1.5rem;
   border-radius: var(--radius);
   cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.product-card__button:hover {
+  background: var(--Green700);
 }
 
 .product-card__button span {
   color: var(--White);
   font-weight: var(--WeightsMont7);
   font-size: 1.6rem;
+}
+
+@media (min-width: 768px) {
+  .product-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .product-card__content {
+    font-size: ;
+  }
 }

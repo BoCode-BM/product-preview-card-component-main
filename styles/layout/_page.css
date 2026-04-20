@@ -12,6 +12,13 @@ body {
 }
 
 .product {
-  max-width: 375px;
-  padding: 1.5rem;
+  max-width: 350px;
+  margin: 2rem;
+}
+
+@media (min-width: 768px) {
+  .product {
+    width: 100%;
+    max-width: 550px;
+  }
 }
