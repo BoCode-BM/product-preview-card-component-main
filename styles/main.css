@@ -1,7 +1,7 @@
-@import url("base/_reset.css");
-@import url("base/_variables.css");
-@import url("base/_typography.css");
+@import url("./base/reset.css");
+@import url("./base/variables.css");
+@import url("./base/typography.css");
 
-@import url("layout/_page.css");
+@import url("./layout/page.css");
 
-@import url("components/_product-card.css");
+@import url("./components/product-card.css");
